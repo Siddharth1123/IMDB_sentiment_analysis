@@ -32,6 +32,12 @@ pip install numpy pandas scikit-learn tensorflow keras flask
 6. Run Flask Application:
    python deploy.py
 
+Running on local URL:  http://127.0.0.1:7860
+   ![image](https://github.com/user-attachments/assets/2549fcfb-7143-47f7-985c-62d4fd23fb68)
+
+   
+
+
    
 
 
